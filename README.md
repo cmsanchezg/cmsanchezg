@@ -15,11 +15,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/cmsanchezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cmsanchezg" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/cmsanchezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cmsanchezg" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/carlitostraveller/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cmsachezg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22355970/carlos-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cmsachezg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cmsanchezg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cmsanchezg" height="30" width="40" /></a>
-<a href="https://leetcode.com/cmsanchezg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cmsanchezg" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/22355970/carlos-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cmsachezg" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/cmsanchezg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cmsanchezg" height="30" width="40" /></a> -->
+<!-- <a href="https://leetcode.com/cmsanchezg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cmsanchezg" height="30" width="40" /></a> -->
+<a (https://github.com/cmsanchezg/carlos-dev-portfolio) target="blank"><img align="center" src="https://drive.google.com/file/d/16DvH7IV3nAAJ7B88tFtSyB7qqtLYERzn/view?usp=drive_link" alt="cmsachezg headshot portfolio" height="30" width="40" /></a>
 </p>
 
 
