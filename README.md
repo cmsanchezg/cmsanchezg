@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *sanchez.carlosmg@gmail.com*
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZSxkVRoltmSL9Pgv5KJF4wlO6xVaOwCQ/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1PWuFWYc12J9oCykHpPGPzNx_Eg-pTaZU/view?usp=drive_link)
 
 - ⚡ Fun fact *I have a passion for traveling and have visited over 50 coutries*
 
