@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on personal portfolio 
 [Front-End](https://github.com/cmsanchezg/carlos-dev-portfolio) 
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript, Redux**
 
 - 📫 How to reach me *sanchez.carlosmg@gmail.com*
 
